@@ -1,4 +1,4 @@
-# Hotel-Reservation-Analysis [PowerBI, PowerQuery, Server Management Studio]
+# Hotel-Reservation-Analysis [PowerBI, PowerQuery, SQL Server Management Studio]
 [Hotel Reservation Analysis dashboard pdf.pdf](https://github.com/Baliqees-Oladunjoye/Hotel-Reservation-Analysis/files/13806030/Hotel.Reservation.Analysis.dashboard.pdf.pdf)
 
 
