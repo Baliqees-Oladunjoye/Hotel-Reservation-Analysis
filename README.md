@@ -14,6 +14,7 @@ Data from raw .csv file was ingested into SQL Server Management Studio [SSMS], f
 
 **The project addresses the following key business questions:**
 1. Which are the busiest months?
-2. Is the hotel revenue growing by year
+2. Is the hotel revenue growing by year?
 3. Is there a aneed to increase the parking lot space?
 4. Agents with the highest revenue
+   
